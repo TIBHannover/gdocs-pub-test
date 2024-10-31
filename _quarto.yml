@@ -1,19 +1,18 @@
 project:
   type: book
   output-dir: docs
-title: "Google Docs and Zotero Publishing Options"
-subtitle: "CSS Paged Media and Quarto"
-author: # repeat as often as needed
-  - name: Simon Worthington
-    affiliations:
-      - name: TIB - Leibniz Information Centre for Science and Technology and University Library
-        address: Welfengarten 1 B, 30167 Hannover.
-        email: simon.worthington@tib.eu
 
 # Quarto options for books
 # https://quarto.org/docs/reference/projects/books.html
 book:
   title: "Google Docs and Zotero Publishing Options"
+  subtitle: "CSS Paged Media and Quarto"
+  author: # repeat as often as needed
+   - name: Simon Worthington
+     affiliations:
+       - name: TIB - Leibniz Information Centre for Science and Technology and University Library
+         address: Welfengarten 1 B, 30167 Hannover.
+         email: simon.worthington@tib.eu
   date: "2024-11-01"
   # this section determines which files will be added to the book as chapters
   chapters:

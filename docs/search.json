@@ -6,7 +6,7 @@
     "section": "",
     "text": "Publication tests\nOutputs generated from Google Docs and Zotero.",
     "crumbs": [
-      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>1</span>  <span class='chapter-title'>Publication tests</span>"
     ]
   },
   {
@@ -16,7 +16,7 @@
     "section": "",
     "text": "Steps involved in the setup",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -26,7 +26,7 @@
     "section": "",
     "text": "Google Document setup\n\nConnect Zotero\n\nSet Citation Style: CMOS Author Date\n\nTest citation addition\n\nChange Zotero language, Citation style\n\nAdd standard layout parts",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -36,7 +36,7 @@
     "section": "Publishing from Google Docs",
     "text": "Publishing from Google Docs\n\nOption 1: Output to use Paged Media CSS and Vivliostyle\nZotero linked version - HTML\n\nSave document as HTML\n\nUpload online - in this case GitHub\n\nRead document in Vivliostyle\n\nAs A4 - no style - Viewer only\n\nGDoc\n\n\nWith UNFCCC Style - UNFCCC style CSS - Report of the Conference of the Parties\n\nGDoc\n\n\nWith Report Style - Report style CSS - IPCC Glossary example publication\n\nGDoc\n\n\n\nZotero unlinked version - HTML\nZotero linked EPUB",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -46,7 +46,7 @@
     "section": "Output Quarto Markdown",
     "text": "Output Quarto Markdown",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -56,7 +56,7 @@
     "section": "Publish Google Doc",
     "text": "Publish Google Doc\nGoogle Docs publishing\nRead in Vivliostyle",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -66,7 +66,7 @@
     "section": "Text starts",
     "text": "Text starts",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -76,7 +76,7 @@
     "section": "Header 2",
     "text": "Header 2\n\n\n\n\n\n\n\n\n\nNAME\nWEBLAUNCHYEAR\nPRIMEPHASEALPHA\nPRIME PHASE No\n\n\n\n\nname (blue ones were added during last update)\nyear of weblaunch / introduction / founding\nprimary phase of workflow targeted\nphase order\n\n\nOSF (Open Science Framework)\n2013\nproject management/planning\n0\n\n\nAsPredicted\n2015\nproject management/planning\n0\n\n\nDMP Tool\n2011\nproject management/planning\n0\n\n\nProjects\n2013\nproject management/planning\n0\n\n\nConfluence (Atlassian)\n2003\nproject management/planning\n0\n\n\nInnocentive\n2001\ncrowdsource/define research priorities/ideas\n1\n\n\nDHcommons\n2010\ncrowdsource/define research priorities/ideas\n1\n\n\n\nTable 1: A table caption.\nNullam elementum interdum lorem ac aliquet. Sed eleifend blandit convallis. Sed at porttitor urna. Fusce rhoncus sodales scelerisque. Donec massa sem, pharetra nec pulvinar ac, ultrices vitae orci. Donec mollis varius ligula, nec viverra felis ornare rutrum. Fusce euismod metus ac ultricies sollicitudin. Sed vehicula lacus orci, quis volutpat erat consectetur nec.\nDuis hendrerit laoreet metus quis volutpat. Vivamus vel purus tortor. Integer lectus nunc, aliquet eu malesuada eu, elementum eu elit. Pellentesque vel semper sem. Phasellus bibendum massa sapien. Integer convallis, mauris a porta tincidunt, massa arcu fringilla eros, at fermentum mauris odio vitae diam. Sed nec lacus vel purus interdum finibus. Nullam lacinia nisi vitae dapibus tempus. Morbi sed lectus vitae turpis ornare volutpat. Fusce bibendum enim et risus sagittis, sed fermentum justo feugiat. Nulla at turpis eleifend, consectetur lacus quis, consectetur sapien. Duis euismod hendrerit pellentesque. Quisque pretium turpis mollis, tincidunt erat sed, rhoncus dui. Etiam at tincidunt leo. Cras semper erat vel tortor imperdiet pellentesque.\nSuspendisse efficitur, nibh elementum mattis pretium, mi diam pharetra nulla, non fringilla turpis enim ut dui. Quisque semper dui id est vestibulum sollicitudin. Integer porttitor commodo tellus, commodo pharetra nunc tempor suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus.\n\nHeader 3\nMaths equation:\nF = G * m1 * m2 / d2 1\nNewton’s Law of Gravity states that attractive force (gravity) exists between any two objects.\n\nF: Gravitational Force, in N\n\nm1: Mass of Object 1, in Kg\n\nm2: Mass of Object 2, in Kg\n\nd: Distance between the two Objects, in m\n\nG: Gravitation Constant, is 6.67 × 10-11 N.m2/kg2\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Proin egestas iaculis leo, eget interdum diam porta sed. Donec posuere odio sit amet lectus feugiat pellentesque. Donec ac rhoncus nunc. Pellentesque rhoncus, nisl et scelerisque porta, massa purus condimentum dui, nec dictum dui est at eros. Phasellus auctor odio vitae mollis dictum. Etiam cursus, erat eu efficitur fermentum, est lorem facilisis sapien, quis condimentum velit dui quis eros. Pellentesque non elementum odio. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae. (Henny-Krahmer et al. 2021)\nAenean consequat risus neque, in blandit turpis auctor in. Mauris porta porttitor nibh, sit amet molestie ex ultrices sed. Proin sed turpis quis lacus consectetur lacinia vel id ex. Etiam at finibus magna, id semper leo. Nulla erat nibh, gravida id erat a, maximus convallis sapien. Ut lobortis mi ipsum, sit amet aliquam urna posuere tincidunt. Nullam at feugiat velit. Aliquam erat volutpat.\nDonec tristique risus libero. Pellentesque lacinia ut orci non ornare. Etiam dapibus dui ut magna pellentesque consequat. In quam nisl, blandit in interdum ut, faucibus a quam. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec aliquam scelerisque erat quis egestas. Cras pharetra imperdiet sodales. Sed rutrum ipsum aliquam nibh viverra ornare. Aliquam id nulla nec est lacinia malesuada id nec risus. Etiam aliquam ante hendrerit urna tincidunt eleifend. Aliquam erat volutpat. Donec consectetur sodales libero ac porta. (Altenhöner et al. 2020)\n\nFigure 1: Neudenau, Germany, district Herbolzheim: sloping up bare fields, a track with green grass and a lonely pear tree near the Hohe Strasse southeast of Herbolzheim. © Roman Eisele / Wikimedia Commons / CC BY-SA 4.0.\nNam volutpat nec nisi id euismod. Donec varius felis orci, vel suscipit leo pretium et. Vestibulum semper, eros a blandit sodales, mi ipsum mollis dui, quis fringilla urna neque sit amet libero. Cras euismod sem ut sem varius sagittis. Suspendisse eu erat elit. Vivamus in magna enim. Mauris vestibulum massa ac porttitor facilisis.\n\nUnordered list\n\nItem two\n\nItem three\n\nAliquam eget lacus ipsum. Pellentesque at fringilla sapien, at facilisis elit. Proin ut lectus accumsan, venenatis lacus sed, aliquet leo. Integer vel orci id mauris volutpat elementum ut non risus. Aliquam eget lacus ipsum. Pellentesque at fringilla sapien, at facilisis elit. Proin ut lectus accumsan, venenatis lacus sed, aliquet leo. Integer vel orci id mauris volutpat elementum ut non risus.\n\nHeader 4\n\nOrdered list\n\nItem 2\n\nItem 3\n\nSed faucibus, sem vitae congue gravida, tellus ex tincidunt erat, non tristique elit nibh lobortis ex. Nunc rutrum libero vitae risus sagittis volutpat. Integer orci quam, lobortis a justo quis, varius vehicula felis. Donec non leo sodales, varius magna nec, maximus leo.\nSuspendisse vitae euismod risus. Donec tortor nulla, condimentum non porta ut, gravida nec nisl. Morbi vitae pharetra turpis, in varius turpis.\n- A quote citation\nSed venenatis porta pulvinar. Donec nec maximus arcu. Morbi viverra consequat tellus, eu tristique sapien mattis ut.\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eget odio sed tortor suscipit pretium. Cras bibendum varius mauris vel hendrerit. Vivamus in blandit urna. Quisque justo elit, laoreet non tortor vitae, dignissim luctus felis. Donec euismod erat nec ex tempus blandit. Proin quis urna dui. Ut tempus felis molestie tortor posuere, id aliquet orci rhoncus. Donec finibus vehicula ex, eget auctor neque mollis et. Duis viverra ex eu ipsum vestibulum consectetur. Suspendisse eget metus sit amet dui feugiat tristique vel sed mauris. Vivamus ut turpis feugiat, auctor sem non, blandit erat. Nulla facilisi. Suspendisse potenti.\nSed lobortis rutrum dui vel sagittis. Proin et ligula eu dolor tristique ornare. Vivamus laoreet, lectus ut tincidunt pellentesque, diam dolor auctor ex, vitae facilisis massa orci sit amet velit. Phasellus id sapien bibendum, ornare dolor quis, feugiat urna. Proin vitae felis sollicitudin, sodales mauris at, pretium est.\n1. The editor can’t handle math calculations. (Footnote text)",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   },
   {
@@ -86,7 +86,7 @@
     "section": "Bibliography H2",
     "text": "Bibliography H2\nAltenhöner, Reinhard, Ina Blümel, Franziska Boehm, Jens Bove, Katrin Bicher, Christian Bracht, Ortrun Brand, et al. 2020. ‘NFDI4Culture - Consortium for Research Data on Material and Immaterial Cultural Heritage’. Research Ideas and Outcomes 6 (July):e57036. https://doi.org/10/ghk5fd.\nHenny-Krahmer, Ulrike, Lisa Dieckmann, Daniel Röwenstrunk, and Daniel Jettka. 2021. ‘NFDI4Culture Expert:innen-Forum „Nachhaltige Softwareentwicklung“’. DHdBlog (blog). 6 May 2021. https://dhd-blog.org/?p=15793.\nWorthington, Simon. 2023. ‘Automating Exhibition Catalogue Creation’. Community-Led Open Publication Infrastructures for Monographs (COPIM), April. https://doi.org/10.21428/785a6451.1bb409b8.",
     "crumbs": [
-      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Google Docs and Zotero Publishing Options</span>"
+      "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
   }
 ]
