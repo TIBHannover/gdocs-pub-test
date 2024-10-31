@@ -20,28 +20,30 @@ Zotero linked version \- HTML
 2. Upload online \- in this case GitHub  
 3. Read document in Vivliostyle  
    1. As A4 \- no style \- Viewer only   
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false)  
-   2. With UNFCCC Style \- [UNFCCC style CSS](https://raw.githubusercontent.com/semanticClimate/cma3-test/main/current/css/theme.css) \- Report of the Conference of the Parties   
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false&style=https://raw.githubusercontent.com/semanticClimate/cma3-test/main/current/css/theme.css)   
-   3. With Report Style \- [Report style CSS](https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css) \- IPCC Glossary [example publication](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld)  
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css) 
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document1.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/)  
+   2. With Book style \- [CSS](https://raw.githubusercontent.com/TIBHannover/book-style/refs/heads/main/uhtml/css/senner.css) \- Example: [Book demo](https://tibhannover.github.io/book-style/)  
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document1.html&style=https://raw.githubusercontent.com/TIBHannover/book-style/refs/heads/main/uhtml/css/senner.css)   
+   3. With Report style \- [CSS](https://github.com/TIBHannover/report-style/blob/main/uhtml/css/appaloosa.css) \- Example: [IPCC Glossary](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld)  
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document1.html&style=https://github.com/TIBHannover/report-style/blob/main/uhtml/css/appaloosa.css)   
+   4. With Manual style \- [CSS](https://raw.githubusercontent.com/TIBHannover/manual-style/refs/heads/main/uhtml/css/haflinger.css) \- Example: [Manual demo](https://tibhannover.github.io/manual-demo/)  
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document1.html&style=https://raw.githubusercontent.com/TIBHannover/manual-style/refs/heads/main/uhtml/css/haflinger.css) 
 
 Zotero unlinked version \- HTML  
-	  
+To be confirmed	  
 Zotero linked EPUB  
 	[Decompressed epub](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/epub/GoogleDoc/nav.xhtml) \- no style  
 	[Decompressed epub](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/epub/GoogleDoc/nav.xhtml&style=https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css&f=epubcfi\(/4!/4/108\)) \- Report style
 
 ## Output Quarto Markdown
 
+[Example](https://mrchristian.github.io/gdocs/)
+
 ## Publish Google Doc
 
 * [Google Docs publishing](https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub)   
 * [Read in Vivliostyle](https://vivliostyle.org/viewer/#src=https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub&userStyle=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20margin:%200;%20%7D%0A:root,%20body%20%7B%20margin:%200%20!important;%20%7D%0A:root%20%7B%20font-size:%2012pt;%20line-height:%201.2;%20font-family:%20serif;%20%7D%0Aimg,%20svg%20%7B%20max-inline-size:%20100%25;%20max-block-size:%20100vb;%20object-fit:%20contain;%20%7D%0A/*%3C/viewer%3E*/&f=epubcfi\(/2!/4/4[contents]/4/118\))
 
-## Text starts
-
-# Title of the Text H1
+## Title of the Text
 
 ![][image1]
 
@@ -53,7 +55,7 @@ Praesent id eleifend velit. Vestibulum ut dolor bibendum, congue nisi eget, vest
 
 Suspendisse sollicitudin interdum ex eu sodales. Cras id faucibus leo. Ut pulvinar lorem id sollicitudin scelerisque. Vestibulum ornare molestie vestibulum. Aenean purus nibh, semper ut nunc sit amet, maximus malesuada ante. Aenean mi risus, fringilla et auctor sit amet, condimentum vitae quam. Nam ut neque dolor. Phasellus sit amet nibh a quam euismod consequat. Maecenas non dolor molestie, iaculis metus non, elementum urna. Fusce lobortis accumsan iaculis. Integer interdum vestibulum pulvinar. Aenean blandit, justo ut mollis pulvinar, felis purus efficitur lectus, et eleifend lectus eros ultricies tellus. Maecenas non dolor molestie, iaculis metus non, elementum urna. Fusce lobortis accumsan iaculis. Integer interdum vestibulum pulvinar. Aenean blandit, justo ut mollis pulvinar, felis purus efficitur lectus, et eleifend lectus eros ultricies tellus. 
 
-## Header 2
+## Header H2
 
 | NAME | WEBLAUNCHYEAR | PRIMEPHASEALPHA | PRIME PHASE No |
 | ----- | ----- | ----- | ----- |
@@ -74,7 +76,7 @@ Duis hendrerit laoreet metus quis volutpat. Vivamus vel purus tortor. Integer le
 
 Suspendisse efficitur, nibh elementum mattis pretium, mi diam pharetra nulla, non fringilla turpis enim ut dui. Quisque semper dui id est vestibulum sollicitudin. Integer porttitor commodo tellus, commodo pharetra nunc tempor suscipit. Interdum et malesuada fames ac ante ipsum primis in faucibus.
 
-### Header 3
+### Header H3
 
 Maths equation:
 
@@ -106,7 +108,7 @@ Nam volutpat nec nisi id euismod. Donec varius felis orci, vel suscipit leo pret
 
 Aliquam eget lacus ipsum. Pellentesque at fringilla sapien, at facilisis elit. Proin ut lectus accumsan, venenatis lacus sed, aliquet leo. Integer vel orci id mauris volutpat elementum ut non risus. Aliquam eget lacus ipsum. Pellentesque at fringilla sapien, at facilisis elit. Proin ut lectus accumsan, venenatis lacus sed, aliquet leo. Integer vel orci id mauris volutpat elementum ut non risus.
 
-#### Header 4
+#### Header H4
 
 1. Ordered list  
 2. Item 2  
@@ -114,7 +116,7 @@ Aliquam eget lacus ipsum. Pellentesque at fringilla sapien, at facilisis elit. P
 
 Sed faucibus, sem vitae congue gravida, tellus ex tincidunt erat, non tristique elit nibh lobortis ex. Nunc rutrum libero vitae risus sagittis volutpat. Integer orci quam, lobortis a justo quis, varius vehicula felis. Donec non leo sodales, varius magna nec, maximus leo.
 
-Suspendisse vitae euismod risus. Donec tortor nulla, condimentum non porta ut, gravida nec nisl. Morbi vitae pharetra turpis, in varius turpis.  
+Suspendisse vitae euismod risus. Donec tortor nulla, condimentum non porta ut, gravida nec nisl. Morbi vitae pharetra turpis, in various turpis.  
 **\- A quote citation**
 
 Sed venenatis porta pulvinar. Donec nec maximus arcu. Morbi viverra consequat tellus, eu tristique sapien mattis ut.
