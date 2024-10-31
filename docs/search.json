@@ -34,7 +34,7 @@
     "href": "doc-linked/document.html#publishing-from-google-docs",
     "title": "Research Article Demonstration Document",
     "section": "Publishing from Google Docs",
-    "text": "Publishing from Google Docs\n\nOption 1: Output to use Paged Media CSS and Vivliostyle\nZotero linked version - HTML\n\nSave document as HTML\n\nUpload online - in this case GitHub\n\nRead document in Vivliostyle\n\nAs A4 - no style - Viewer only\n\nGDoc\n\n\nWith UNFCCC Style - UNFCCC style CSS - Report of the Conference of the Parties\n\nGDoc\n\n\nWith Report Style - Report style CSS - IPCC Glossary example publication\n\nGDoc\n\n\n\nZotero unlinked version - HTML\nZotero linked EPUB",
+    "text": "Publishing from Google Docs\n\nOption 1: Output to use Paged Media CSS and Vivliostyle\nZotero linked version - HTML\n\nSave document as HTML\n\nUpload online - in this case GitHub\n\nRead document in Vivliostyle\n\nAs A4 - no style - Viewer only\n\nGDoc\n\n\nWith UNFCCC Style - UNFCCC style CSS - Report of the Conference of the Parties\n\nGDoc\n\n\nWith Report Style - Report style CSS - IPCC Glossary example publication\n\nGDoc\n\n\n\nZotero unlinked version - HTML\nZotero linked EPUB\nDecompressed epub - no style\nDecompressed epub - Report style",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]
@@ -54,7 +54,7 @@
     "href": "doc-linked/document.html#publish-google-doc",
     "title": "Research Article Demonstration Document",
     "section": "Publish Google Doc",
-    "text": "Publish Google Doc\nGoogle Docs publishing\nRead in Vivliostyle",
+    "text": "Publish Google Doc\n\nGoogle Docs publishing\n\nRead in Vivliostyle",
     "crumbs": [
       "<span class='chapter-number'>2</span>  <span class='chapter-title'>Research Article Demonstration Document</span>"
     ]

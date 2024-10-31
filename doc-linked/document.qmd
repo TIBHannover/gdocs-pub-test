@@ -20,21 +20,24 @@ Zotero linked version \- HTML
 2. Upload online \- in this case GitHub  
 3. Read document in Vivliostyle  
    1. As A4 \- no style \- Viewer only   
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/Researcharticledemo.html&f=epubcfi\(/2!/4/54\)&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false)  
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false)  
    2. With UNFCCC Style \- [UNFCCC style CSS](https://raw.githubusercontent.com/semanticClimate/cma3-test/main/current/css/theme.css) \- Report of the Conference of the Parties   
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/Researcharticledemo.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false&style=https://raw.githubusercontent.com/semanticClimate/cma3-test/main/current/css/theme.css)   
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/&spread=false&style=https://raw.githubusercontent.com/semanticClimate/cma3-test/main/current/css/theme.css)   
    3. With Report Style \- [Report style CSS](https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css) \- IPCC Glossary [example publication](https://vivliostyle.vercel.app/#src=https://raw.githubusercontent.com/semanticClimate/glossary-demo/main/ipccglossary.jsonld)  
-      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/Researcharticledemo.html&style=https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css) 
+      1. [GDoc](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/document.html&style=https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css) 
 
 Zotero unlinked version \- HTML  
-Zotero linked EPUB 
+	  
+Zotero linked EPUB  
+	[Decompressed epub](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/epub/GoogleDoc/nav.xhtml) \- no style  
+	[Decompressed epub](https://vivliostyle.org/viewer/#src=https://raw.githubusercontent.com/mrchristian/gdocs/refs/heads/main/doc-linked/epub/GoogleDoc/nav.xhtml&style=https://raw.githubusercontent.com/semanticClimate/glossary-demo/refs/heads/main/css/appaloosa.css&f=epubcfi\(/4!/4/108\)) \- Report style
 
 ## Output Quarto Markdown
 
 ## Publish Google Doc
 
-[Google Docs publishing](https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub)   
-[Read in Vivliostyle](https://vivliostyle.org/viewer/#src=https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub&style=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20size:%20a4;%20%7D%0A/*%3C/viewer%3E*/)
+* [Google Docs publishing](https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub)   
+* [Read in Vivliostyle](https://vivliostyle.org/viewer/#src=https://docs.google.com/document/d/e/2PACX-1vSgCmVO6wZxXdv7CeRKh7NPxaTHNU3mrjh7R-JaZFcaigoVrAdCdQv0tG-SvdIrQNvfhfbn4v6m8_Xj/pub&userStyle=data:,/*%3Cviewer%3E*/%0A@page%20%7B%20margin:%200;%20%7D%0A:root,%20body%20%7B%20margin:%200%20!important;%20%7D%0A:root%20%7B%20font-size:%2012pt;%20line-height:%201.2;%20font-family:%20serif;%20%7D%0Aimg,%20svg%20%7B%20max-inline-size:%20100%25;%20max-block-size:%20100vb;%20object-fit:%20contain;%20%7D%0A/*%3C/viewer%3E*/&f=epubcfi\(/2!/4/4[contents]/4/118\))
 
 ## Text starts
 
