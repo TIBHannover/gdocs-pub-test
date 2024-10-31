@@ -1,5 +1,75 @@
 project:
-  title: "Google Docs to Quarto"
+  type: book
+  output-dir: docs
+title: "Google Docs and Zotero Publishing Options"
+subtitle: "CSS Paged Media and Quarto"
+author: # repeat as often as needed
+  - name: Simon Worthington
+    affiliations:
+      - name: TIB - Leibniz Information Centre for Science and Technology and University Library
+        address: Welfengarten 1 B, 30167 Hannover.
+        email: simon.worthington@tib.eu
 
+# Quarto options for books
+# https://quarto.org/docs/reference/projects/books.html
+book:
+  title: "Google Docs and Zotero Publishing Options"
+  date: "2024-11-01"
+  # this section determines which files will be added to the book as chapters
+  chapters:
+    - index.qmd
+    - doc-linked/document.qmd
+  repo-url: https://github.com/mrchristian/gdocs
+  repo-actions: [edit]
+  downloads: [pdf,docx,epub]
+  cover-image: images/1F4D1_color.png
+  favicon: images/1F4D1_color.ico
 
+# Quarto allows commenting using either Hypothesis or Utterances
+# https://quarto.org/docs/reference/projects/books.html#comments
+comments:
+  hypothesis: true
+
+format:
+  # options for HTML output
+  # https://quarto.org/docs/reference/formats/html.html
+  html:
+    number-sections: false
+    # css: https://latex.vercel.app/style.css
+    # Quarto allows a number of pre-packaged themes for the HTML version
+    # You can choose between them using the documentation at https://quarto.org/docs/output-formats/html-themes.html
+    theme:
+      light: [minty]
+      dark: [slate]
+    code-fold: true
+    code-overflow: wrap
+  # options for PDF output 
+  # https://quarto.org/docs/reference/formats/pdf.html
+  pdf:
+    #keep-tex: true
+    pagestyle: plain # page numbers
+    geometry: # margins
+      - top=35mm
+      - right=25mm
+      - bottom=35mm
+      - left=25mm
+      - heightrounded
+    documentclass: book
+    classoption: openany 
+    fontsize: 11pt
+    number-sections: true
+    papersize: a4
+    toc: true
+    toc-title: Inhaltsverzeichnis
+    urlcolor: cyan
+    title-bg-image: "images/1F4D1_color.png"
+    title-bg-location: "UL"
+    title-bg-size: 1
+  docx: 
+    toc: true
+  epub: 
+    toc: true   
+    epub-cover-image: images/1F4D1_color.png
+    code-fold: true
+    code-overflow: wrap
 

@@ -1,0 +1,3 @@
+# Publication tests
+
+Outputs generated from Google Docs and Zotero.
