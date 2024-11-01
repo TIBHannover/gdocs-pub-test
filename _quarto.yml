@@ -18,7 +18,7 @@ book:
   chapters:
     - index.qmd
     - doc-linked/document.qmd
-  repo-url: https://github.com/mrchristian/gdocs
+  repo-url: https://github.com/TIBHannover/gdocs-pub-test
   repo-actions: [edit]
   downloads: [pdf,docx,epub]
   cover-image: images/1F4D1_color.png
